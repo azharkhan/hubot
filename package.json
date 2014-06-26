@@ -25,10 +25,10 @@
     "hubot-slack": "~2.1.0",
     "hubot-reviewer-lotto": "~0.4.4",
     "underscore": ">= 1.0.0",
-    "clark": "0.0.6",
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
-    "underscore.string": "2.3.0"
+    "underscore.string": "2.3.0",
+    "clark": "0.0.6"
   },
   "engines": {
     "node": ">= 0.8.x",
