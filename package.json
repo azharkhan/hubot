@@ -28,7 +28,8 @@
     "htmlparser": "1.7.6",
     "soupselect": "0.2.0",
     "underscore.string": "2.3.0",
-    "clark": "0.0.6"
+    "clark": "0.0.6",
+    "hubot-plusplus": "1.0.x"
   },
   "engines": {
     "node": ">= 0.8.x",
